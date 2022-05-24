@@ -1,0 +1,2 @@
+# SoftUniDbModuleExercises
+Database Exercises
